@@ -39,7 +39,7 @@ while(i < cognomi.length){
 
 if(flag===true){
 
-  document.getElementById('posizione').innerHTML='Sei in '+ p +' posizione della lista.';
+  document.getElementById('posizione').innerHTML='Il tuo cognome è il numero '+ p;
 }
 
 
